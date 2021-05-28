@@ -5,6 +5,10 @@
 We have created our bot in such a way that it is easy to use and set welcome message for your server. It can be DM message, It can be A particular message or a small message in any of the specific channel of your server. Here is the list of command which you can use to set welcome/greeting message for your discord server:
 >
 >> __COMMAND WLL BE OUT VERY SOON. STAY TUNED TILL THEN.__
+
+## SCREENSHOTS 
+
+
 # ҠÐꪮƬ HΘΜΣƬΘШ∏™ Music ! 
 A free, high quality Discord bot. Never miss a beat with bot's 24/7 Uptime. Stream your audio at the best quality possible! Control everything from bot's prefix to the equalizer for the ultimate DJ experience. 
 > 
